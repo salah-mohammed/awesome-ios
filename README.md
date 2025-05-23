@@ -1495,7 +1495,7 @@ Also see [push notifications](#push-notifications)
 - [ReactiveAPI](https://github.com/sky-uk/ReactiveAPI) - Write clean, concise and declarative network code relying on URLSession, with the power of RxSwift. Inspired by Retrofit.
 - [Squid](https://github.com/borchero/Squid) - Declarative and reactive networking framework based on Combine and providing means for HTTP requests, transparent pagination, and WebSocket communication.
 - [Get](https://github.com/kean/Get) - A modern Swift web API client built using async/await.
-
+- [GeneralKit](https://github.com/salah-mohammed/GeneralKit) - GeneralKit is a Swift framework for HTTP networking and data handling in UITableView and UICollectionView, providing a complete vision to get maintainable and clean business code efficient network-driven UIKit or SwiftUI apps..
 **[back to top](#contributing-and-collaborating)**
 
 ## Newsletters
